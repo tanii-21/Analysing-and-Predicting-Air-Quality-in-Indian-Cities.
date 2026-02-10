@@ -1,2 +1,2 @@
-# AI-Driven-Student-Performance-Dropout-Risk-Prediction-System
-Educational institutions generate large amounts of student data, but it is rarely used effectively. This project analyzes student performance and engagement data using data science techniques to identify key patterns and support better academic decision-making.
+# Analysing and Predicting Air Quality in Indian Cities
+Air pollution is a major environmental and health concern in Indian cities. The aim of this project is to analyze historical air quality data and use machine learning techniques to predict the Air Quality Index (AQI). The system helps in understanding pollution trends and estimating future air quality levels.
